@@ -38,4 +38,4 @@ Heart disease is one of the leading causes of death worldwide. Early prediction 
 
 ```bash
 pip install -r requirements.txt
-streamlit run streamlit_app.py
+streamlit run app.py
