@@ -2,7 +2,6 @@
 
 This project is a machine learning–based web application that predicts the risk of heart disease based on user-provided medical parameters. The application is built using Python, scikit-learn, and Streamlit, and is deployed on Streamlit Community Cloud for public access.
 
-
 ## 🧠 Project Overview
 
 Heart disease is one of the leading causes of death worldwide. Early prediction plays a crucial role in preventive healthcare. This application allows users to enter key health indicators and provides real-time prediction of heart disease risk using a trained machine learning model.
@@ -30,14 +29,12 @@ Heart disease is one of the leading causes of death worldwide. Early prediction 
 4. Integration with Streamlit user interface  
 5. Deployment on Streamlit Cloud  
 
+## 🌐 Web Application
+
+🔗 **Live Demo:** https://heartdiseaseprediction-ekhssplaxhx8ytusetzcvl.streamlit.app/
+
 ## ▶️ Run Locally
 
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
-
-# ❤️ Heart Disease Prediction Web Application
-
-🔗 **Live Demo:** https://heartdiseaseprediction-ekhssplaxhx8ytusetzcvl.streamlit.app/
-
-This project is a machine learning–based web application that predicts the risk of heart disease based on user-provided medical parameters.
