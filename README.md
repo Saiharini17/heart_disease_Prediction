@@ -38,6 +38,6 @@ streamlit run app.py
 
 # ❤️ Heart Disease Prediction Web Application
 
-🔗 **Live Demo:** (https://heartdiseaseprediction-ekhssplaxhx8ytusetzcvl.streamlit.app/)
+🔗 **Live Demo:** https://heartdiseaseprediction-ekhssplaxhx8ytusetzcvl.streamlit.app/
 
 This project is a machine learning–based web application that predicts the risk of heart disease based on user-provided medical parameters.
